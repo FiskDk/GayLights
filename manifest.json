@@ -6,14 +6,14 @@
       "name": "Lights ON",
       "short_name": "Lights ON",
       "description": "Turn ON the lights",
-      "url": "fiskdk.github.io/GayLights/lights_on.html",
+      "url": "https://fiskdk.github.io/GayLights/lights_on.html",
       "icons": [{ "https://fiskdk.github.io/GayLights/assets/img/on.png", "sizes": "36x36" }]
     },
     {
       "name": "Lights OFF",
       "short_name": "Lights OFF",
       "description": "Turn OFF the lights",
-      "url": "fiskdk.github.io/GayLights/lights_off.html",
+      "url": "https.//fiskdk.github.io/GayLights/lights_off.html",
       "icons": [{ "src": "https://fiskdk.github.io/GayLights/assets/img/off.png", "sizes": "36x36" }]
     }
   ]
