@@ -1,22 +1,32 @@
 {
     "short_name": "GayLights",
     "name": "GayLights",
-"shortcuts": [
-    {
-      "name": "Lights ON",
-      "short_name": "Lights ON",
-      "description": "Turn ON the lights",
-      "url": "https://fiskdk.github.io/GayLights/lights_on.html",
-      "icons": [{ "src": "https://fiskdk.github.io/GayLights/assets/img/on.png", "sizes": "36x36" }]
-    },
-    {
-      "name": "Lights OFF",
-      "short_name": "Lights OFF",
-      "description": "Turn OFF the lights",
-      "url": "https.//fiskdk.github.io/GayLights/lights_off.html",
-      "icons": [{ "src": "https://fiskdk.github.io/GayLights/assets/img/off.png", "sizes": "36x36" }]
-    }
-  ],
+    "shortcuts": [
+        {
+            "name": "Lights ON",
+            "short_name": "Lights ON",
+            "description": "Turn ON the lights",
+            "url": "https://fiskdk.github.io/GayLights/lights_on.html",
+            "icons": [
+                {
+                    "src": "https://fiskdk.github.io/GayLights/assets/img/on.png",
+                    "sizes": "36x36"
+                }
+            ]
+        },
+        {
+            "name": "Lights OFF",
+            "short_name": "Lights OFF",
+            "description": "Turn OFF the lights",
+            "url": "https.//fiskdk.github.io/GayLights/lights_off.html",
+            "icons": [
+                {
+                    "src": "https://fiskdk.github.io/GayLights/assets/img/off.png",
+                    "sizes": "36x36"
+                }
+            ]
+        }
+    ],
     "icons": [
         {
             "src": "https://fiskdk.github.io/assets/img/wp2598712.jpg",
