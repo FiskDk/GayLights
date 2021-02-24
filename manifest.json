@@ -5,7 +5,7 @@
         {
             "name": "Lights ON",
             "short_name": "Lights ON",
-            "description": "Turn ON the lights",
+            "description": "Turn ON the lights.",
             "url": "https://fiskdk.github.io/GayLights/lights_on.html",
             "icons": [
                 {
@@ -17,8 +17,8 @@
         {
             "name": "Lights OFF",
             "short_name": "Lights OFF",
-            "description": "Turn OFF the lights",
-            "url": "https.//fiskdk.github.io/GayLights/lights_off.html",
+            "description": "Turn OFF the lights.",
+            "url": "https://fiskdk.github.io/GayLights/lights_off.html",
             "icons": [
                 {
                     "src": "https://fiskdk.github.io/GayLights/assets/img/off.png",
