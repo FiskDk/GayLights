@@ -1,0 +1,11 @@
+<script>
+fetch("https://maker.ifttt.com/trigger/lights_on/with/key/lu2E1OEuU8UchFss9r0Yvxktl7WRdAaW6VAxSGf4wch")
+.then((resp) => resp.json())
+.then(function(data) {
+window.close()
+})
+.catch(function(error) {
+  console.log(error);
+window.close()
+});
+</script>
