@@ -7,7 +7,7 @@
       "short_name": "Lights ON",
       "description": "Turn ON the lights",
       "url": "https://fiskdk.github.io/GayLights/lights_on.html",
-      "icons": [{ "https://fiskdk.github.io/GayLights/assets/img/on.png", "sizes": "36x36" }]
+      "icons": [{ "src": "https://fiskdk.github.io/GayLights/assets/img/on.png", "sizes": "36x36" }]
     },
     {
       "name": "Lights OFF",
